@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**tengkuzatul/tengkuzatul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Tengku Zatul Hidayah
+I am a Computer Science lecturer at UiTM interested in software engineering, AI and Machine Learning.
+About me
+Working: FSKM, UiTM
+Currently teaching: JAVA, C++, Special Topics in CS, AI Algorithm, Machine Learning, Project Formulation. 
+Skills and tools
+Python, Git, SQL, JAVA, C++
+Projects
+Project name: Predictive Modelling Technique For Optimizing Fuzzy Inference To Overcome Inaccuracies And Highly Correlated Datasets
+Contact
+LinkedIn: https://my.linkedin.com/in/tengku-zatul-hidayah-tengku-petra-099904151
+Email: tgzatul@uitm.edu.my
