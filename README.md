@@ -7,3 +7,4 @@ Python, Git, SQL, JAVA, C++.
 Project name: Predictive Modelling Technique For Optimizing Fuzzy Inference To Overcome Inaccuracies And Highly Correlated Datasets.
 LinkedIn: https://my.linkedin.com/in/tengku-zatul-hidayah-tengku-petra-099904151
 Email: tgzatul@uitm.edu.my
+my class today
